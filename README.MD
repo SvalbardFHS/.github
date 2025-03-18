@@ -1,3 +1,1 @@
-Vi er tekno og forskjergjengen fra SFHS :)
-
-Vi bruker denne organisasjonen for deling osv. mellom nåverende og tidligere elever.
+For å redigere readme.md for selve organisasjonssiden, gå til profiler mappa først.
